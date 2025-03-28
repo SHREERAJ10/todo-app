@@ -6,9 +6,9 @@ A simple todo list where users can add, mark, and remove tasks. It uses localSto
 [Click here to view the live demo]()
 
 ## Features:
-✅ Adds tasks dynamically
-✅ Stores tasks in localStorage
-✅ Marks the tasks as completed
+✅ Adds tasks dynamically <br>
+✅ Stores tasks in localStorage <br>
+✅ Marks the tasks as completed <br>
 ✅ Removes the tasks individually or clears the entire list
 
 ## Usage
