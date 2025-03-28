@@ -3,7 +3,7 @@
 A simple todo list where users can add, mark, and remove tasks. It uses localStorage so the tasks remain even after the page is refreshed.
 
 ## Demo  
-[Click here to view the live demo]()
+[Click here to view the live demo](https://shreeraj10.github.io/todo-app/)
 
 ## Features:
 ✅ Adds tasks dynamically <br>
